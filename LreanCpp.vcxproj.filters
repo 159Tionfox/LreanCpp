@@ -9,22 +9,22 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Day1.cpp">
-      <Filter>Lrean</Filter>
-    </ClCompile>
-    <ClCompile Include="Day2.cpp">
-      <Filter>Lrean</Filter>
-    </ClCompile>
-    <ClCompile Include="Day3.cpp">
-      <Filter>Lrean</Filter>
-    </ClCompile>
-    <ClCompile Include="Day4.cpp">
-      <Filter>Lrean</Filter>
-    </ClCompile>
-    <ClCompile Include="Day5.cpp">
-      <Filter>Lrean</Filter>
-    </ClCompile>
     <ClCompile Include="Day0.ReadMe">
+      <Filter>Lrean</Filter>
+    </ClCompile>
+    <ClCompile Include="LreanFiles\Day1.cpp">
+      <Filter>Lrean</Filter>
+    </ClCompile>
+    <ClCompile Include="LreanFiles\Day2.cpp">
+      <Filter>Lrean</Filter>
+    </ClCompile>
+    <ClCompile Include="LreanFiles\Day3.cpp">
+      <Filter>Lrean</Filter>
+    </ClCompile>
+    <ClCompile Include="LreanFiles\Day4.cpp">
+      <Filter>Lrean</Filter>
+    </ClCompile>
+    <ClCompile Include="LreanFiles\Day5.cpp">
       <Filter>Lrean</Filter>
     </ClCompile>
   </ItemGroup>
