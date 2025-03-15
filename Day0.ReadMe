@@ -1,0 +1,31 @@
+如何使用Visual Studio
+
+Ctrl+Shift+N	新建项目
+Ctrl+Shift+O	打开项目
+
+Ctrl+N	新建文件
+Ctrl+O	打开文件
+Ctrl+S	保存文件
+Ctrl+Z	撤销（返回上一步操作）
+
+Ctrl+F	查找/替换文本
+Ctrl+D	快速复制此行文本到下一行
+
+Shift+Alt+Enter	最大化窗口（全屏代码面板）
+
+F4	属性窗口
+
+
+
+Ctrl+Shift+X	快速创建类
+Ctrl+Shift+A	快速创建文件
+Shift+Alt+A		快速添加现有文件
+Ctrl+Shift+B	生成解决方案
+Ctrl+F7			编译
+F5				调试
+Ctrl+F5			运行
+Ctrl+Alt+A		切换命令窗口
+
+F10				调试运行
+//调试运行后
+F11				下一步
